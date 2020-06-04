@@ -1,6 +1,6 @@
 # Game of Life using Python (clone of PP version)
 
-WORK IN PROGRESS: learning how the Game of Life works in Python
+WORK IN PROGRESS: learning how Conway's Game of Life works using Python
 
 ## Getting Started
 
